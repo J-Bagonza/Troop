@@ -62,7 +62,7 @@ function App() {
   return (
     <main>
       <section id="header">
-      🐒Tp
+      🐒p
       </section>
       <p>...</p>
       <h2>{getMessage()}</h2>
